@@ -42,4 +42,4 @@ For more information, please contact: nicolas.campos.a@usach.cl
 # Developers
 Nicolás Campos, https://github.com/NicolasCampos01
 Vicente Silva, https://github.com/ProfesorRossa
-Ignacio Cordova
+Ignacio Cordova, https://github.com/Cordovvadcrk
