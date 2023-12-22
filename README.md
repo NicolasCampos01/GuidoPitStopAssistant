@@ -1,6 +1,6 @@
 # GuidoPitStopAssistant
  Euler and Leapfrog Method Simulation for Tire Wear on a F1 Racing Circuit
-#Introduction
+# Introduction
 This code simulates tire wear during a race on a given racing circuit using Euler's method and Leapfrog. The simulation is based on the telemetry data obtained from a FastF1 session for the 2021 season. The primary goal is to analyze the tire wear at different points on the circuit and estimate the error in the simulation using Richardson extrapolation.
 
 # Dependencies
