@@ -4,9 +4,9 @@
 This code simulates tire wear during a race on a given racing circuit using Euler's method and Leapfrog. The simulation is based on the telemetry data obtained from a FastF1 session for the 2021 season. The primary goal is to analyze the tire wear at different points on the circuit and estimate the error in the simulation using Richardson extrapolation.
 
 # Dependencies
-fastf1: This library is used for extracting lap telemetry data from the FastF1 database.
-numpy: A powerful library for numerical operations in Python.
-matplotlib.pyplot: A library for creating visualizations in Python.
+## fastf1: This library is used for extracting lap telemetry data from the FastF1 database.
+## numpy: A powerful library for numerical operations in Python.
+## matplotlib.pyplot: A library for creating visualizations in Python.
 # Input
 The user is prompted to enter the name of the racing circuit.
 Telemetry Data Extraction
