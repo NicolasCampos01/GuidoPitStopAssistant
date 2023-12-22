@@ -35,3 +35,9 @@ Richardson extrapolation is used to estimate tire wear with a smaller time step 
 The percentage error is calculated to assess the accuracy of the simulation.
 # Output
 The estimated tire wear, actual tire wear for different time steps, and the percentage error are printed at the end of the simulation.
+# Contact
+For more information, please contact: nicolas.campos.a@usach.cl
+# Developers
+Nicolás Campos, https://github.com/NicolasCampos01
+Vicente Silva, https://github.com/ProfesorRossa
+Ignacio Cordova
