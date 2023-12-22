@@ -1,5 +1,7 @@
 # GuidoPitStopAssistant
- Euler and Leapfrog Method Simulation for Tire Wear on a F1 Racing Circuit
+ This repository serves as the official home for the GuidoPitStop library, a project developed as part of the Computational Physics IV course. The library focuses on simulating tire wear on an F1 racing circuit using the Euler and Leapfrog methods. It explores the physics behind pit stop strategies and provides tools to analyze the impact of tire wear on vehicle performance. Join us as we bring the excitement of F1 racing into the world of simulation and computational physics.
+
+This repository provides the source code, documentation, and practical examples for using the GuidoPitStop library in projects related to race car dynamics. Get ready to dive into the fascinating world of applied physics in high-speed racing and on-track strategy!
 # Introduction
 This code simulates tire wear during a race on a given racing circuit using Euler's method and Leapfrog. The simulation is based on the telemetry data obtained from a FastF1 session for the 2021 season. The primary goal is to analyze the tire wear at different points on the circuit and estimate the error in the simulation using Richardson extrapolation.
 
